@@ -12,4 +12,8 @@
 - Implemented MVC architecture for structuring the projects
 - Used classes to create data models for project
 
+4. Clima
+- Utilized Cocoapods, SwiftyJSON, and AlamoFire
+- Implemented a multipage application with delegates and protocols
+
 
