@@ -16,4 +16,7 @@
 - Utilized Cocoapods, SwiftyJSON, and AlamoFire
 - Implemented a multipage application with delegates and protocols
 
+5. 
+- Utilized Cocoapods, SwiftyJSON, and AlamoFire
+- Learned how to use a UIPicker to toggle through options
 
